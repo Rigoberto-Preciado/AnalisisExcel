@@ -1,4 +1,4 @@
-# AnalisisExcel
+# Caso Practico
 En este proyecto se analizará una base de datos de una cafeteria CityBlend ubicada en Nueva York.
 # Contexto
 Para comprender mejor el funcionamiento operativo de la cafetería "CityBlend", ubicada en Nueva York, se han recopilado datos sobre las transacciones realizadas durante seis meses consecutivos, desde enero hasta junio. La cafetería cuenta con tres sucursales distintas, y este análisis nos permitirá obtener una visión más clara del comportamiento general del negocio.
